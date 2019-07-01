@@ -8,7 +8,9 @@ Documentation on these classes is available on Building Smart websites, such as
 http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/ (Browse Alphabetical Listings)
 
 For a list of software/applications supporting IFC interaction, refer to
-http://www.buildingsmart-tech.org/implementation/implementations/plominoview.allapplications
+http://www.buildingsmart-tech.org/implementation/implementations/plominoview.allapplications - 404-page
+
+maybe this link https://www.buildingsmart.org/compliance/software-certification/certified-software/
 
 Implementataion of ifcxml is in early stage of development.
 
